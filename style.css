@@ -347,7 +347,7 @@ body.is-active {
     overflow: hidden;
 }
 .information__img {
-    background: url("../img/chair.png") center/cover;
+    background: url("https://github.com/arima-syougo/arima-syougo.github.io/blob/main/chair.png?raw=true") center/cover;
     width: 45%;
     position: absolute;
     top: 0;
