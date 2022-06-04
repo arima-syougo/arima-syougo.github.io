@@ -188,7 +188,7 @@ body.is-active {
     left: 50%;
     transform: translate(-50%);
     height: 50%;
-    background: url("../img/chair.png") center/cover;
+    background: url("https://github.com/arima-syougo/arima-syougo.github.io/blob/main/chair.png?raw=true") center/cover;
     height: 100%;
     width: 50%;
     min-width: 320px;
